@@ -1,0 +1,32 @@
+{
+  "name": "my-icons",
+  "version": "0.0.3",
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  }
+,  
+  "keywords": [
+    "svg-icons",
+    "demo package"
+  ],
+  "author": "Sadid",
+  "repository": {
+    "git":""
+  },
+  "license": "ISC",
+  "description": "",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.6",
+    "@babel/core": "^7.24.6",
+    "@babel/preset-env": "^7.24.6",
+    "@babel/preset-react": "^7.24.6"
+  }
+}
