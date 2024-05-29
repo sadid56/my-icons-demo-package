@@ -7,16 +7,16 @@
   ],
   "scripts": {
     "build": "babel src --out-dir dist"
-  }
-,  
+  },
   "keywords": [
     "svg-icons",
     "demo package"
   ],
   "author": "Sadid",
   "repository": {
-    "git":""
+    "git": "https://github.com/sadid56/my-icons-demo-package"
   },
+  "homepage": "https://olynex.com/",
   "license": "ISC",
   "description": "",
   "peerDependencies": {
